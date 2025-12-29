@@ -6,14 +6,14 @@ Automatically create a demo repository with FixCI:
 
 ```bash
 # Download and run
-curl -fsSL https://raw.githubusercontent.com/fixci-ai/docs/main/scripts/setup-demo.sh | bash
+curl -fsSL https://raw.githubusercontent.com/fixci-ai/docs/master/scripts/setup-demo.sh | bash
 ```
 
 Or manually:
 
 ```bash
 # Download
-wget https://raw.githubusercontent.com/fixci-ai/docs/main/scripts/setup-demo.sh
+wget https://raw.githubusercontent.com/fixci-ai/docs/master/scripts/setup-demo.sh
 
 # Make executable
 chmod +x setup-demo.sh

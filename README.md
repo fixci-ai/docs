@@ -33,7 +33,7 @@ Welcome to FixCI documentation! Learn how to install and use FixCI to analyze yo
 Create a demo repository with FixCI automatically:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/fixci-ai/docs/main/scripts/setup-demo.sh | bash
+curl -fsSL https://raw.githubusercontent.com/fixci-ai/docs/master/scripts/setup-demo.sh | bash
 ```
 
 ---
